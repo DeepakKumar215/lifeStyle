@@ -1,1 +1,2 @@
-# lifeStyle
+# lifeStyle 
+bootstrap project
